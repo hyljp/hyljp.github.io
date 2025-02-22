@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Curtis Han on HYL株式会社</title><link>https://hyljp.github.io/authors/curtis-han/</link><description>Recent content in Curtis Han on HYL株式会社</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://hyljp.github.io/authors/curtis-han/index.xml" rel="self" type="application/rss+xml"/><item><title>静的な小規模企業ウェブサイトの作成</title><link>https://hyljp.github.io/static_website_service/</link><pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate><guid>https://hyljp.github.io/static_website_service/</guid><description>&lt;h3 id="静的なウェブサイトの利点">静的なウェブサイトの利点&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>高速なロード時間&lt;/strong>&lt;br>
+静的なウェブサイトは、サーバーから直接HTMLファイルを配信するため、動的なウェブサイトよりも読み込み速度が速いです。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>セキュリティ&lt;/strong>&lt;br>
+静的なウェブサイトにはデータベースやサーバーサイドスクリプトがないため、攻撃のリスクが低くなります。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>簡単なホスティング&lt;/strong>&lt;br>
+静的なウェブサイトは、任意の静的ファイルサーバーでホスティングできます。Amazon S3、Netlify、GitHub Pagesなどのサービスが利用可能です。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>スケーラビリティ&lt;/strong>&lt;br>
+静的なウェブサイトはスケーラビリティが高く、大量のトラフィックにも対応しやすいです。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="主流の静的ウェブサイト技術">主流の静的ウェブサイト技術&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Hugo&lt;/strong>&lt;br>
+Golangで書かれた高速な静的サイトジェネレーター。広範なテーマとテンプレートが利用可能で、拡張性が高いです。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Jekyll&lt;/strong>&lt;br>
+Rubyで書かれた静的サイトジェネレーター。GitHub Pagesでのホスティングに最適です。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Gatsby&lt;/strong>&lt;br>
+Reactベースの静的サイトジェネレーター。高性能でモダンなウェブサイトの構築に適しており、GraphQLを使用したデータの取得が可能です。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Next.js&lt;/strong>&lt;br>
+Reactベースのフレームワークであり、静的サイトジェネレーターとしても使用できます。サーバーサイドレンダリングや静的生成をサポートしています。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Nuxt.js&lt;/strong>&lt;br>
+Vue.jsベースのフレームワークであり、静的サイトジェネレーターとしても使用可能。使いやすく、拡張性があります。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>これらの技術を使用することで、効率的で安全な静的ウェブサイトを構築することができます。&lt;/p></description></item></channel></rss>
