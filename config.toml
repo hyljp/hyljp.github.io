@@ -183,7 +183,7 @@ id = ""
     logo_text = "HYL"
 
     logo = "img/HYL_Logo.png"
-    logo_small = "img/logo-small.png"
+    logo_small = "img/HYL_Logo_small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>HYL株式会社</strong>
         <br>むつみビル3階
