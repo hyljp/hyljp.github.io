@@ -1,50 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HYL株式会社</title><link>https://hyljp.github.io/</link><description>Recent content on HYL株式会社</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://hyljp.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Categories Post</title><link>https://hyljp.github.io/blog/2021/08/01/categories-post/</link><pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate><guid>https://hyljp.github.io/blog/2021/08/01/categories-post/</guid><description>&lt;p>I&amp;rsquo;m a post with multiple categories in the frontmatter:&lt;/p>
-&lt;pre>&lt;code>categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]
-&lt;/code>&lt;/pre>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p></description></item><item><title>決算電子公告代理サービス</title><link>https://hyljp.github.io/service/</link><pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate><guid>https://hyljp.github.io/service/</guid><description>&lt;p>HYL株式会社は、ソフトウェア開発の分野で優れたサービスを提供する会社です&amp;hellip;&lt;/p>
-&lt;p>このページはテスト用のページです。&lt;/p></description></item><item><title>静的な小規模企業ウェブサイトの作成</title><link>https://hyljp.github.io/static_website_service/</link><pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate><guid>https://hyljp.github.io/static_website_service/</guid><description>&lt;h3 id="静的なウェブサイトの利点">静的なウェブサイトの利点&lt;/h3>
-&lt;ol>
-&lt;li>
-&lt;p>&lt;strong>高速なロード時間&lt;/strong>&lt;br>
-静的なウェブサイトは、サーバーから直接HTMLファイルを配信するため、動的なウェブサイトよりも読み込み速度が速いです。&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>セキュリティ&lt;/strong>&lt;br>
-静的なウェブサイトにはデータベースやサーバーサイドスクリプトがないため、攻撃のリスクが低くなります。&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>簡単なホスティング&lt;/strong>&lt;br>
-静的なウェブサイトは、任意の静的ファイルサーバーでホスティングできます。Amazon S3、Netlify、GitHub Pagesなどのサービスが利用可能です。&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>スケーラビリティ&lt;/strong>&lt;br>
-静的なウェブサイトはスケーラビリティが高く、大量のトラフィックにも対応しやすいです。&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;h3 id="主流の静的ウェブサイト技術">主流の静的ウェブサイト技術&lt;/h3>
-&lt;ol>
-&lt;li>
-&lt;p>&lt;strong>Hugo&lt;/strong>&lt;br>
-Golangで書かれた高速な静的サイトジェネレーター。広範なテーマとテンプレートが利用可能で、拡張性が高いです。&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Jekyll&lt;/strong>&lt;br>
-Rubyで書かれた静的サイトジェネレーター。GitHub Pagesでのホスティングに最適です。&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Gatsby&lt;/strong>&lt;br>
-Reactベースの静的サイトジェネレーター。高性能でモダンなウェブサイトの構築に適しており、GraphQLを使用したデータの取得が可能です。&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Next.js&lt;/strong>&lt;br>
-Reactベースのフレームワークであり、静的サイトジェネレーターとしても使用できます。サーバーサイドレンダリングや静的生成をサポートしています。&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Nuxt.js&lt;/strong>&lt;br>
-Vue.jsベースのフレームワークであり、静的サイトジェネレーターとしても使用可能。使いやすく、拡張性があります。&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;p>これらの技術を使用することで、効率的で安全な静的ウェブサイトを構築することができます。&lt;/p></description></item><item><title>ご連絡お待ちしております</title><link>https://hyljp.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hyljp.github.io/contact/</guid><description>&lt;p>拝啓&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HYL株式会社</title><link>https://hyljp.github.io/</link><description>Recent content on HYL株式会社</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 11:26:20 +0900</lastBuildDate><atom:link href="https://hyljp.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>新たな一歩を共に ～信頼と成長の物語を紡ぐ～</title><link>https://hyljp.github.io/blog/2025/02/24/categories-post/</link><pubDate>Mon, 24 Feb 2025 11:26:20 +0900</pubDate><guid>https://hyljp.github.io/blog/2025/02/24/categories-post/</guid><description>&lt;p>皆様へ&lt;/p>
+&lt;p>2025年3月、弊社は新たな船出を迎えます。この地で皆様と育む信頼の絆が、やがて大きな樹となり社会に恵みをもたらすよう、心を込めて歩みを進めてまいります。&lt;/p>
+&lt;p>&lt;strong>技術の誠実さを礎に&lt;/strong>&lt;/p>
+&lt;p>約束の重みを肝に銘じ、技術的達成が困難な案件はお受けいたしません。しかし一旦お預かりした仕事には総力を注ぎ、匠の精神で最後まで完遂いたします。「安心して任せられる」というお声が、最高の褒章と心得ております。&lt;/p>
+&lt;p>&lt;strong>事業を通じた社会貢献&lt;/strong>&lt;/p>
+&lt;p>持続可能な社会の実現に向け、[業界特性に合わせ例：省エネルギーソリューションの開発/障害者雇用プログラムの推進]に取り組んでまいります。ビジネスの持つ力を、人と地球の笑顔につなぐ企業を目指します。&lt;/p>
+&lt;p>&lt;strong>志を交わす仲間として&lt;/strong>&lt;/p>
+&lt;p>単なるビジネスパートナーではなく、共に未来を語り合える関係を大切にします。お客様はもちろん、取引先様や地域の皆様との対話を糧に、革新の種を育ててまいります。&lt;/p>
+&lt;p>この春、皆様と紡ぐ物語の第一章が始まります。どうぞ、私たちと共に新たな一歩を踏み出してください。&lt;/p>
+&lt;p>        2025年3月吉日&lt;/p>
+&lt;p>        株式会社[ HYL株式会社] 代表取締役 [韓　昌]&lt;/p>
+&lt;p>        一同 心を込めて&lt;/p></description></item><item><title>静的な小規模企業ウェブサイトの作成</title><link>https://hyljp.github.io/static_website_service/</link><pubDate>Sat, 22 Feb 2025 21:20:20 +0900</pubDate><guid>https://hyljp.github.io/static_website_service/</guid><description>&lt;p>最近、新たな起業ブームが再び到来しました。多くのフリーランサーや個人事業主が一転して、小規模企業の社長になりました。これにより、税金面で多くのメリットを享受できるようになりました。&lt;/p>
+&lt;p>既然成立了企业，自然就希望企业有个网站。在企业宣传方面，不可否认，还是起到积极作用的。但是也不是所有的企业都需要很大的网站。有的小企业，只需要有一个静态的网页，为企业做了适当的宣传就可以了。&lt;/p>
+&lt;p>在这里，我一直强调静态网站。可能不是计算机专业的人对静态网页还不是太了解。始终认为制作一个网站就需要买域名，服务器以及维护的费用。当然&lt;/p></description></item><item><title>決算電子公告代理サービス</title><link>https://hyljp.github.io/service/</link><pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate><guid>https://hyljp.github.io/service/</guid><description>&lt;p>HYL株式会社は、ソフトウェア開発の分野で優れたサービスを提供する会社です&amp;hellip;&lt;/p>
+&lt;p>このページはテスト用のページです。&lt;/p></description></item><item><title>ご連絡お待ちしております</title><link>https://hyljp.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hyljp.github.io/contact/</guid><description>&lt;p>拝啓&lt;/p>
 &lt;p>お元気でお過ごしでしょうか。&lt;/p>
 &lt;p>貴社からのご連絡を心よりお待ちしております。どのようなご質問やご要望でも、お気軽にお知らせください。皆様のお役に立てることを楽しみにしております。&lt;/p>
 &lt;p>敬具&lt;/p></description></item><item><title>私たちについて</title><link>https://hyljp.github.io/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hyljp.github.io/faq/</guid><description>&lt;h2 id="会社概要">&lt;strong>会社概要&lt;/strong>&lt;/h2>
