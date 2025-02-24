@@ -35,6 +35,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "事業内容"
     identifier = "menu.portfolio"
+    url        = "/img/compayLogo.png"
     weight     = 2
 
 [[menu.main]]
@@ -50,6 +51,7 @@ pluralizelisttitles = false
     url        = "/static_website_service/"
     weight     = 1
     parent     = "section.portfolio"
+    post       = 2
 
 [[menu.main]]
     name       = "決算電子公告代理サービス"
