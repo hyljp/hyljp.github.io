@@ -55,7 +55,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "決算電子公告代理サービス"
-    url        = "/service/"
+    url        = "/Electronic_Bulletin_Board_Service/"
     weight     = 2
     parent     = "section.portfolio"
 
@@ -278,3 +278,9 @@ pluralizelisttitles = false
   category = "categories"
   tag = "tags"
   author = "authors"
+
+##############add by curtis####################
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      table = true
