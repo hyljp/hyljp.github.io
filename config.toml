@@ -15,13 +15,13 @@ paginate = 10
 # not pluralize title pages by default
 pluralizelisttitles = false
 
-[services]
-[services.disqus]
+#[services]
+#[services.disqus]
 # Enable comments by entering your Disqus shortname
-Shortname = "devcows"
-[services.googleAnalytics]
+#Shortname = "devcows"
+#[services.googleAnalytics]
 # Enable Google Analytics by entering your tracking code
-id = ""
+#id = ""
 
 [menu]
 

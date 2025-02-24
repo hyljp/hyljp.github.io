@@ -1,19 +1,37 @@
 +++
-title = "Categories Post"
-date = "2021-08-01T21:29:20+02:00"
-tags = ["golang", "programming", "theme", "hugo"]
-categories = ["programming","lorem","pseudo"]
-banner = "img/banners/banner-4.jpg"
-authors = ["John Doe"]
+title = "新たな一歩を共に ～信頼と成長の物語を紡ぐ～"
+date = "2025-02-24T11:26:20+09:00"
+tags = ["Company news"]
+categories = ["Company news"]
+banner = "img/banners/sakura.jpg"
+authors = ["Curtis Han"]
 +++
 
-I'm a post with multiple categories in the frontmatter:
+皆様へ
 
-    categories = ["programming","lorem","pseudo"]
+2025年3月、弊社は新たな船出を迎えます。この地で皆様と育む信頼の絆が、やがて大きな樹となり社会に恵みをもたらすよう、心を込めて歩みを進めてまいります。
+
+**技術の誠実さを礎に**
+
+約束の重みを肝に銘じ、技術的達成が困難な案件はお受けいたしません。しかし一旦お預かりした仕事には総力を注ぎ、匠の精神で最後まで完遂いたします。「安心して任せられる」というお声が、最高の褒章と心得ております。
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.
+**事業を通じた社会貢献**
 
-Morbi varius ex vel justo dictum placerat. Sed ac arcu pretium, varius elit eget, gravida purus. Fusce sit amet massa mollis eros tincidunt sollicitudin. Suspendisse iaculis cursus mauris ut sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas elit ligula, molestie quis magna eu, semper posuere lorem. Mauris a justo pharetra, congue ex eget, tincidunt massa. Maecenas sit amet neque lorem.
+持続可能な社会の実現に向け、[業界特性に合わせ例：省エネルギーソリューションの開発/障害者雇用プログラムの推進]に取り組んでまいります。ビジネスの持つ力を、人と地球の笑顔につなぐ企業を目指します。
 
-Curabitur at elementum quam. Curabitur tristique elit non sapien aliquam vulputate. Vivamus in odio tincidunt, tempor sem quis, tincidunt lacus. Mauris pulvinar nunc sed tempus dictum. Nam vel arcu quis mi fermentum ullamcorper non ac lacus. Donec aliquet vitae ante at imperdiet. Aenean scelerisque venenatis urna, eget elementum risus convallis ac. Nullam gravida arcu lacus, non consectetur augue pretium non. Duis dignissim eros id urna pretium congue. Nullam eu magna in sem sollicitudin tempor. Pellentesque vel convallis ligula. Quisque semper, turpis a rhoncus efficitur, magna nibh iaculis elit, eget tempor dolor eros ut mi. Maecenas eu placerat lacus. Praesent congue pretium nulla, sed suscipit metus rutrum vel.
+
+**志を交わす仲間として**
+
+単なるビジネスパートナーではなく、共に未来を語り合える関係を大切にします。お客様はもちろん、取引先様や地域の皆様との対話を糧に、革新の種を育ててまいります。
+
+
+この春、皆様と紡ぐ物語の第一章が始まります。どうぞ、私たちと共に新たな一歩を踏み出してください。
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2025年3月吉日
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;株式会社[ HYL株式会社] 代表取締役 [韓　昌]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一同 心を込めて
