@@ -1,12 +1,12 @@
 /* Themed colors */
 :root {
-  --primary-accent: #467fbf;
+  --primary-accent: #97c5e4;
   --navbar-border-top: #294d76;
   --button-border: #336194;
   --link-focus: #2f5a89;
-  --form-shadow: rgba(70, 127, 191, 0.6);
-  --pagination-bg: #b8cee6;
-  --link-hover-bg: #36669c;
+  --form-shadow: rgba(161, 175, 190, 0.6);
+  --pagination-bg: #c2d4e7;
+  --link-hover-bg: #718dad;
   --navbar-focus: #92b3d9;
 }
 
@@ -801,7 +801,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 30px;
   margin-bottom: 0;
   position: relative;
-  background: url('../img/photogrid.jpg') center center repeat;
+  background: url('../img/port.jpg') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1158,7 +1158,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
   position: relative;
-  background: url('../img/photogrid.jpg') center center repeat;
+  background: url('../img/port.jpg') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
