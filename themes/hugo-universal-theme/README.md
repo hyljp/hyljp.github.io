@@ -35,7 +35,7 @@ This Hugo theme was ported from [Bootstrapious](http://bootstrapious.com/p/unive
     - [Menu](#menu)
     - [Sidebar widgets](#sidebar-widgets)
     - [Top bar](#top-bar)
-    - [Blog post thumbnails](#blog-post-thumbnails)
+    - [Blog post thumbnails](#news-post-thumbnails)
     - [Landing page](#landing-page)
       - [Carousel](#carousel)
       - [Features](#features-1)
@@ -265,7 +265,7 @@ To display 4 columns of menu items, start using sections. Sections are menu item
 
 [[menu.main]]
     name       = "Blog"
-    identifier = "section.ap-blog"
+    identifier = "section.ap-news"
     url        = ""
     weight     = 3
     parent     = "menu.allpages"
@@ -273,9 +273,9 @@ To display 4 columns of menu items, start using sections. Sections are menu item
 
 [[menu.main]]
     name       = "Blog Listing Big"
-    url        = "/blog/"
+    url        = "/news/"
     weight     = 1
-    parent     = "section.ap-blog"
+    parent     = "section.ap-news"
 
 ```
 
@@ -287,7 +287,7 @@ Each of these entries contain values for both the `weight` and `post` attribute.
 to indicate in which column a section will be put in. Within a column, the `weight` value is respected to show the
 sections top to bottom.
 
-Use to the unique section identifier (e.g. `section.ap-blog`) as the `parent` value to add a menu item to a specific
+Use to the unique section identifier (e.g. `section.ap-news`) as the `parent` value to add a menu item to a specific
 section. Using `weight` and `post` on the sections allow you to balance the columns with approximately the same
 amount of entries.
 
@@ -310,7 +310,7 @@ When using an image, don't configure section menu items in column 3 or 4. **Thes
 
 ### Sidebar widgets
 
-You can enable/disable the sidebar widgets that will be shown in the blog section. The following widgets are currently available:
+You can enable/disable the sidebar widgets that will be shown in the news section. The following widgets are currently available:
 
 * Search bar (powered by Google)
 * Categories list
@@ -545,7 +545,7 @@ Then, you can enable the section in the configuration file.
 
 #### Recent posts
 
-The recent posts sections shows the four latest published blog posts, with their featured image and an optional summary. It defaults to show recent posts from all [main sections](https://gohugo.io/functions/where/#mainsections). This is either the section with the most posts or can be set explicitly in the configuration file (see linked docs).
+The recent posts sections shows the four latest published news posts, with their featured image and an optional summary. It defaults to show recent posts from all [main sections](https://gohugo.io/functions/where/#mainsections). This is either the section with the most posts or can be set explicitly in the configuration file (see linked docs).
 
 You can enable it in the configuration file.
 
@@ -554,7 +554,7 @@ summaryLength = 70
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
+    title = "From our news"
     subtitle = "Pellen"
     hide_summary = false
 ```
