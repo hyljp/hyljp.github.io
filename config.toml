@@ -169,8 +169,8 @@ pluralizelisttitles = false
     #   5. change `enableRecaptchaInContactForm` is to true
     #   6. enter site key into `googleRecaptchaKey` to enable a recaptcha widget in your page.
     #
-    enableRecaptchaInContactForm = false
-    googleRecaptchaKey = "6LdjbuUqAAAAAJxZ9n42L8-xd1tlfBJfcw7xLvd_"
+    #enableRecaptchaInContactForm = false
+    #googleRecaptchaKey = "6LdjbuUqAAAAAJxZ9n42L8-xd1tlfBJfcw7xLvd_"
 
     about_us = "<p>Hey！YOLO！!!人生は一度きりだから、思いっきり楽しもう！</p>"
     copyright = "Copyright (c) 2025, HYL株式会社; all rights reserved."
