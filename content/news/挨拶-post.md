@@ -3,7 +3,7 @@ title = "新たな一歩を共に ～信頼と成長の物語を紡ぐ～"
 date = "2025-02-24T11:26:20+09:00"
 tags = ["Company news"]
 categories = ["Company news"]
-banner = "img/banners/Sakura.jpg"
+banner = "img/banners/kawazu-zakura.jpg"
 authors = ["Curtis Han"]
 +++
 
