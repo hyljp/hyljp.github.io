@@ -129,7 +129,7 @@ pluralizelisttitles = false
 #    default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
-    enableGoogleMaps = true
+    enableGoogleMaps = false
     googleMapsApiKey = "6LdjbuUqAAAAAJxZ9n42L8-xd1tlfBJfcw7xLvd_"
 
     latitude = "35.46644193603412"
@@ -183,8 +183,8 @@ pluralizelisttitles = false
     disabled_logo = false
     logo_text = "HYL"
 
-    logo = "img/HYL_logo.png"
-    logo_small = "img/HYL_logo_small.png"
+    logo = "img/hyl-logo.png"
+    logo_small = "img/hyl-logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>HYL株式会社</strong>
         <br>むつみビル3階
