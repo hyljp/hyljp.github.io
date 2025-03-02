@@ -2,9 +2,9 @@ baseurl = "https://hyljp.github.io/"
 title = "HYL株式会社"
 theme = "hugo-universal-theme"
 #themesDir = "../.."
-languageCode = "en-us"
+languageCode = "ja"
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
+defaultContentLanguage = "ja"
 
 # number of words of summarized post content (default 70)
 summaryLength = 50
@@ -134,7 +134,7 @@ pluralizelisttitles = false
 [params]
     viewMorePostLink = "/news/"
     author = "Curtis"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    defaultKeywords = [""]
     mainSections = ["news"]
     defaultDescription = "Created by Curtis using the Universal template from Hugo."
 
