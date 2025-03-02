@@ -10,6 +10,10 @@
   --navbar-focus: #92b3d9;
 }
 
+body {
+    font-family: Arial, Helvetica, 'Segoe UI', sans-serif;
+}
+
 .clearfix:before,
 .clearfix:after,
 .navbar:before,
