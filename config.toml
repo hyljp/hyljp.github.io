@@ -34,36 +34,44 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "事業内容"
-    identifier = "menu.portfolio"
+    identifier = "menu.service"
     url        = "/img/companypic.png"
     weight     = 2
 
 [[menu.main]]
     name       = "私たちのサービス"
-    identifier = "section.portfolio"
+    identifier = "section.service"
     url        = ""
     weight     = 1
-    parent     = "menu.portfolio"
+    parent     = "menu.service"
     post       = 1
+
+[[menu.main]]
+    name       = "サービス紹介"
+    url        = "/main_service/"
+    weight     = 1
+    parent     = "section.service"
+
+[[menu.main]]
+    name       = "ほかのコンパクトサービス"
+    identifier = "section.otherService"
+    url        = ""
+    weight     = 2
+    parent     = "menu.service"
+    post       = 2
 
 [[menu.main]]
     name       = "静的な小規模企業ウェブサイトの作成"
     url        = "/static_website_service/"
     weight     = 1
-    parent     = "section.portfolio"
-    post       = 2
+    parent     = "section.otherService"
 
 [[menu.main]]
     name       = "決算電子公告代理サービス"
     url        = "/Electronic_Bulletin_Board_Service/"
     weight     = 2
-    parent     = "section.portfolio"
+    parent     = "section.otherService"
 
-#[[menu.main]]
-#    name       = "会社概要"
-#    identifier = "menu.About"
-#    url        = "/about/"
-#    weight     = 3
 [[menu.main]]
     name       = "会社概要"
     identifier = "menu.Overview"
@@ -76,12 +84,19 @@ pluralizelisttitles = false
     url        = "/news/"
     weight     = 4
 
+#もし採用の計画がある場合は、この部分を有効にしてください。
+[[menu.main]]
+    name       = "採用情報"
+    identifier = "menu.recruit"
+    url        = "/recruit/"
+    weight     = 5
+
 
 [[menu.main]]
     name       = "お問い合わせ"
     identifier = "Contact"
     url        = "/contact/"
-    weight     = 5
+    weight     = 6
 
 
 # Top bar social links menu
