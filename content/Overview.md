@@ -34,6 +34,6 @@ keywords = ["about us"]
 
 ## **会社沿革**
 
-2025年02月 HYL株式会社WebSite作成
+2025年03月 会社設立
 
 
