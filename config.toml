@@ -128,7 +128,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:curtis_han@outlook.com"
+    url = "mailto:sales@hyl-inc.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -202,8 +202,7 @@ pluralizelisttitles = false
     logo_small = "img/hyl-logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>HYL株式会社</strong>
-        <br>むつみビル3階
-        <br>西区北幸2-10-48
+        <br>磯子区洋光台3-28-8
         <br>神奈川県横浜市
         <br>
         <strong>日本</strong>
