@@ -27,14 +27,14 @@ keywords = ["about us"]
 
 - E-mail
 
-  ​		[お問い合わせ](mailto:sales@hyl-inc.com)
+  ​		sales@hyl-inc.com
 
 
 ---
 
 ## **会社沿革**
 
-2025年05月  会社が洋光台へ移転する
+2025年05月  本社は洋光台へ移転
 
 2025年03月  会社設立
 
