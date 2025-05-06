@@ -28,3 +28,4 @@ jobs:
           github_token: ${{ secrets.GIT_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages  # 指定要推送的分支
+          cname: www.hyl-inc.com  # 指定CNAME文件的内容
