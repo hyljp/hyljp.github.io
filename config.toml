@@ -53,6 +53,14 @@ pluralizelisttitles = false
     parent     = "section.service"
 
 [[menu.main]]
+    name       = "HYL金融市場研究会"
+    identifier = "menu.financial-seminar"
+    url        = "https://hyljp.github.io/financial-seminar/" 
+    weight     = 2
+    parent     = "section.service"
+
+
+[[menu.main]]
     name       = "ほかのコンパクトサービス"
     identifier = "section.otherService"
     url        = ""
